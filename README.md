@@ -1,4 +1,6 @@
 # SSOE-Crude-Oil-Forecasting
+Worked on coming up with analytical solutions for SSOE Trading team for Crude Oil Forecasting.
+
 1. Crude Oil 1 day ahead Forecasting based on different metrics for SSOE
 2. Exploratory Data Analysis (EDA) : Finding relationships between variables, outlier detection, plotting graphs of those relationships, correlations and preparing final data for modelling
 3. Time Series Univariate Models : ARIMA, SARIMA, Holt-Winters
