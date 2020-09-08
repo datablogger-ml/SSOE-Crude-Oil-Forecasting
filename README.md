@@ -20,7 +20,7 @@
 10. Using libraries like GetOldTweets3, Python-Twitter to fetch historical Tweet data to train classifier models (LSTM, GRU).
 11. Unsupervised techniques like Word Cloud and Topic Modelling for Twitter Data visualization.
 
-### Contributions
+### Results
 
 1. Achieved a Forecasting accuracy of 97% and a Directional accuracy of 55% for a test period of 5 months.
 2. Baseline Twitter Classifier model able to acheive an accuracy of 60% in correctly classifying the price change in Crude oil for each day.
